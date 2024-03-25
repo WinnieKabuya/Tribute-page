@@ -4,4 +4,4 @@ Choose a historical figure who’s meaningful to you and create a webpage dedica
 - An image of the person
 - A caption for the image
 - A timeline of the person’s life in the form of a [list]
-[![Netlify Status](https://wangari-maathai.netlify.app/)
+[![Netlify Status](https://wangari-maathai.netlify.app)
