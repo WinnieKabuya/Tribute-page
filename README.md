@@ -13,7 +13,7 @@ Choose a historical figure who’s meaningful to you and create a webpage dedica
 Visit the survey tribute page on 
 [Netlify](https://wangari-maathai.netlify.app)
 
-# Professor Wangari Maathai tribute page 
+# Professor Wangari Maathai Tribute Page 
 ![Tribute Page](https://github.com/WinnieKabuya/Tribute-page/blob/main/Tribute%20page.png)
 
 
